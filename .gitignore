@@ -1,5 +1,4 @@
 db.sqlite3 
-manage.py 
 generator/__pycache__/
 gen_password/__pycache__/
 gen_password/migrations/__pycache__/
